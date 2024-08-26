@@ -1,2 +1,2 @@
-# Youtube_clone
-Hello Everyone this  is the clone project of youtube with video functionality. 
+#Wall Clock
+Hello this is the clock project which shows time on IST.
